@@ -1,4 +1,4 @@
 TitanicSink
 ===========
 
-My first Machine Learning Problem on kaggle.com
+My first Machine Learning Problem using R.
